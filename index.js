@@ -4,6 +4,9 @@ function superbowlWin(arr){
   if(a == "true"){
     return a.year
   }
+  else {
+    return undefined
+  }
 }
 function testFunc() {
   return "hi"
