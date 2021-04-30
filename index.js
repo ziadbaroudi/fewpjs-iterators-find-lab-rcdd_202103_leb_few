@@ -1,7 +1,9 @@
 const testVar = {}
 function superbowlWin(arr){
-  arr.find(r => r.result =="W")
-  if()
+  let a = arr.find(r => r.result =="W")
+  if(a == "true"){
+    return a.year
+  }
 }
 function testFunc() {
   return "hi"
