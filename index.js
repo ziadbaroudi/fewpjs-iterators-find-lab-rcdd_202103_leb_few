@@ -9,5 +9,5 @@ function superbowlWin(arr){
   }
 }
 function testFunc() {
-  return "hi"
+  return "hi";
 }
