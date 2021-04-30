@@ -1,5 +1,5 @@
 const testVar = {}
-function superbowlWin(array){
+function superbowlWin(arr){
   
 }
 function testFunc() {
