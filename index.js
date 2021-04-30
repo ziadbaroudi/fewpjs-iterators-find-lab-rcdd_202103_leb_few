@@ -5,7 +5,7 @@ function superbowlWin(arr){
     return a.year;
   }
   else {
-    return undefined
+    return undefined;
   }
 }
 function testFunc() {
